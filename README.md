@@ -1,6 +1,6 @@
 # Design Patterns
 
- -> Uses of Design Patterns
+Uses of Design Patterns
     - can speed up the development process by providing tested.
     - Effective software design requires considering issues that may not become visible until later in the implementation.
     - 
